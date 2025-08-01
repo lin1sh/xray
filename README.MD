@@ -11,19 +11,19 @@
 Установка
 
 ```
-wget -qO- https://raw.githubusercontent.com/dn1artego/xray/refs/heads/gemini/xray-install.sh | bash
+wget -qO- https://raw.githubusercontent.com/lin1sh/xray/refs/heads/load/xray-install.sh | bash
 ```
 
 Обновление
 
 ```
-wget -qO- https://raw.githubusercontent.com/dn1artego/xray/refs/heads/gemini/xray-update.sh | bash
+wget -qO- https://raw.githubusercontent.com/lin1sh/xray/refs/heads/load/xray-update.sh | bash
 ```
 
 Удаление
 
 ```
-wget -qO- https://raw.githubusercontent.com/dn1artego/xray/refs/heads/gemini/xray-uninstall.sh | bash
+wget -qO- https://raw.githubusercontent.com/lin1sh/xray/refs/heads/load/xray-uninstall.sh | bash
 ```
 
 ---
