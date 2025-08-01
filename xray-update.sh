@@ -15,4 +15,8 @@ bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release
 echo "Перезапускаем службу Xray..."
 systemctl restart xray
 
+
+echo ""
+echo "=========================================="
 echo "Обновление успешно завершено!"
+echo "=========================================="
